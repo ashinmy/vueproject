@@ -257,6 +257,7 @@ export default {
     -moz-transform:rotate(45deg); 	/* Firefox */
     -webkit-transform:rotate(45deg); /* Safari 和 Chrome */
     -o-transform:rotate(45deg);
+    display: flex;
     background: #2a2b31;
     position: absolute;
     border-top: 1px solid #43444a;
